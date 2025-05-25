@@ -32,6 +32,7 @@ body {
   width: 100%;
   padding: 2vw 2vw;
   background-color: #c4bcb3;
+  overflow-x: hidden;
   position: relative;
 }
 
